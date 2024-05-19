@@ -1,9 +1,9 @@
 {
-  "homepage": "https://7lcclint.github.io/garage-web",
   "name": "garage",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://7lcclint.github.io/garage-web/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
